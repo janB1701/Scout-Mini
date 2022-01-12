@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
+* [Feature](#features)
 
 ## General info
 This robotics colledge project is about determening robot's pitch and roll angle while driving. Robot used in this project is [Scout Mini](quora.com/profile/Ashish-Kulkarni-100) from Agilex. 
