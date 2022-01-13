@@ -13,9 +13,10 @@ Project is created with:
 
 ## Feature
 Project will be helpful in many practical uses of robot:
-* while carying high low, determening the overroll angle
+* while carying high load, determening the overroll angle
 * improvement of robot's stability
 
 ### To do:
 * add Python script for pitch calculation
 * roll angle
+
