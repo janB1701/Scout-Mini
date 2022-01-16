@@ -18,7 +18,7 @@ Project will be helpful in many practical uses of robot:
 * improvement of robot's stability
 
 ## Use
-Program is currently made for reading and computing acceleration from bag file, topic "/odom". Typically, the odometry (/odom topic) describes the "internal" state of the robot, i.e. the integrated position using wheel encoders. It is not very precise measure of robot's movements but it is good for tihs kinf of operation. Later on, program (acceleration.py) can be used to subscribe to node "/odom" so we can get measurements of angles in real time while driving the robot.
+Program is currently made for reading and computing acceleration from bag file, topic "/odom". Typically, the odometry (/odom topic) describes the "internal" state of the robot, i.e. the integrated position using wheel encoders. It is not very precise measure of robot's movements but it is good for this kinf of operation. Later on, program (acceleration.py) can be used to subscribe to node "/odom" so we can get measurements of angles in real time while driving the robot.
 
 ### To do:
 * roll angle
